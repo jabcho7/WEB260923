@@ -22,4 +22,5 @@ https://jabcho7.github.io/WEB260923/
   
  api 활용 (TMDB, Kofic)
  API(Application Programming Interface) = 해당 서버나 DB에 접속해 정보를 가져오거나 할 수 있음
+ <br>
  ##RS 정책 위반에 주의하며 사용##
